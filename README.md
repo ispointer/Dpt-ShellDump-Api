@@ -25,6 +25,7 @@ For Website and Php
 ```bash
 git clone https://github.com/yourusername/dpt-shell-dump-api.git
 cd dpt-shell-dump-api
+cd webapi
 ```
 For csharp and win only
 ```bash
