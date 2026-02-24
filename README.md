@@ -181,6 +181,10 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## contributor
+@aantik_mods
+@AbhikrX
+
 ## Disclaimer
 
 This tool is for educational and security research purposes only. Users are responsible for complying with applicable laws and regulations. The authors are not responsible for any misuse of this software.
