@@ -21,10 +21,11 @@ A PHP-based tool for extracting, analyzing, and restoring DEX files from DPT-she
 
 ### Setup
 
-1. Clone the repository:
+For Website and Php
 ```bash
 git clone https://github.com/yourusername/dpt-shell-dump-api.git
 cd dpt-shell-dump-api
+cd webapi
 ```
 For csharp and win only
 ```bash
