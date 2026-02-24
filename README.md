@@ -26,6 +26,13 @@ A PHP-based tool for extracting, analyzing, and restoring DEX files from DPT-she
 git clone https://github.com/yourusername/dpt-shell-dump-api.git
 cd dpt-shell-dump-api
 ```
+For csharp and win only
+```bash
+git clone https://github.com/yourusername/dpt-shell-dump-api.git
+cd dpt-shell-dump-api
+cd cs-dptshell
+dotnet run 
+```
 
 2. Ensure the required PHP extensions are enabled in your `php.ini`:
 ```ini
